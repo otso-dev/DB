@@ -14,6 +14,8 @@ BEGIN
 	from
 		user_mst;
 END
+```
+
 ```mysql
 CREATE DEFINER=`root`@`localhost` PROCEDURE `insert_product`(_product_name varchar(45)) -- '프로시저 명()'
 BEGIN
