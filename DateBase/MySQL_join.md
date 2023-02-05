@@ -1,5 +1,6 @@
 # join
 
+```mysql
 select
 	*
 from
@@ -58,3 +59,4 @@ order by
 	lm.순번 desc;
     
 show profiles
+```
